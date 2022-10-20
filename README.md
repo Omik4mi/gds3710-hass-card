@@ -36,6 +36,7 @@ icons:
   reject_call: mdi:phone-hangup
 debug: false
 ```
+If debug show trace in browser console
 
 ## Open door
 
