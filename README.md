@@ -17,7 +17,7 @@ Grandstream GDS3710 Home assistant card
 resources:
   - type: js
     url: /local/gds3710/jssip-3.3.6.min.js
-  - type: module
+  - type: js
     url: /local/gds3710/index.js
 ```
 ## Card configuration
